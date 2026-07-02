@@ -1,0 +1,8 @@
+chest_xray/
+__MACOSX/
+*.zip
+*.pth
+*.pth.tar
+__pycache__/
+*.pyc
+.DS_Store
